@@ -1,4 +1,4 @@
-# PE3R: Perception-Efficient 3D Reconstruction
+# YOLOE3R
 <div align="center">
   <img src="./imgs/pe3r.gif" width="100%" ></img>
   <br>
@@ -21,7 +21,7 @@
 ### Quick Start
 #### Install
 ```bash
-conda create --name pe3r
+conda create -n pe3r python=3.10
 conda activate pe3r
 git clone 
 pip install requirements.txt
